@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @AlejandroMuro
+- 🧑‍🎤 I'm a Life coach and engineer!
 - 👀 I’m interested in food technology, programing and sustainability
 - 🌱 I’m currently learning web Development
 - 💞️ I’m looking to collaborate on open software
